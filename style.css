@@ -1,0 +1,65 @@
+body {
+    background-color: aliceblue;
+}
+
+h3{
+    padding-left: 150px;
+}
+
+img{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+    }
+
+td{
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+}
+
+thead{
+    background-color: bisque;
+}
+
+.picture_ {
+    width: 90%;
+}
+
+.text_ {
+    padding-left: 30px;
+    width: 90%;
+}
+
+.places_of_interest_{
+
+    
+    tbody tr:nth-child(odd) {
+        background-color: rgb(71, 236, 46);
+    }
+    tbody tr:nth-child(even) {
+        background-color: aquamarine;
+    }
+    }
+
+
+
+
+
+
+
+.heading_ {
+    text-align: center;
+}
+
+
